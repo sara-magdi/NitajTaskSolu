@@ -9,7 +9,7 @@ namespace Nj.Infrastructure.Models
 {
     public class TodoItem :BaseEntity
     {
-        public string Title { get; set; } 
-        public bool IsCompleted { get; set; }
+        //public string Title { get; set; } 
+        //public bool IsCompleted { get; set; }
     }
 }
